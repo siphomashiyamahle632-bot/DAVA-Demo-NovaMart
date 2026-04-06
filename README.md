@@ -1,46 +1,84 @@
 # DAVA – Clarity from Chaos  
 ### Data insights, beautifully delivered.
 
-![DAVA Logo](./assets/DAVA%20VISUAL.png)
+![DAVA Logo](assets/DAVA_VISUAL.png)
 
 ---
 
 ## 🧩 Project Overview
-**NovaMart** is a fictional online electronics store analyzed as a **data storytelling showcase** by **DAVA**.  
+
+NovaMart is a fictional online electronics store analyzed as a data storytelling showcase by **DAVA**.
+
 This project demonstrates the complete data process — from exploration to visualization and reporting — in a realistic business scenario.
 
-**Goal:** Extract actionable insights on sales, profit, and customer satisfaction across product categories and regions.
+---
+
+## ❗ Business Problem
+
+Retail businesses often struggle to understand sales performance, customer behavior, and product profitability.
+
+This project aims to uncover actionable insights that help improve decision-making, optimize product strategy, and enhance overall business performance.
 
 ---
 
-## 📊 Key Features
-- Exploratory Data Analysis (EDA) Notebook using realistic sales data  
-- Modern dashboard preview illustrating key metrics  
-- Branded PDF report with insights and recommendations  
-- Clean, professional design aligned with DAVA’s blue-grey palette  
+## 🎯 Objectives
+
+- Identify top-performing product categories  
+- Analyze sales and profit trends over time  
+- Understand customer purchasing behavior  
+- Provide data-driven recommendations  
+- Build a dashboard for business decision-making  
 
 ---
 
-## 🧱 Folder Structure
-```
-DAVA-Demo-NovaMart/
-│
-├── assets/
-│   ├── DAVA VISUAL.png
-│   └── NovaMart_Dashboard.png
-│
-├── notebooks/
-│   └── NovaMart_EDA.ipynb
-│
-├── reports/
-│   └── NovaMart_Survey_Report.pdf
-│
-└── README_upload_instructions.txt
-```
+## 📊 Dashboard Preview
+
+![NovaMart Dashboard](assets/NovaMart_Dashboard.png)
+
+---
+
+## 🔍 Key Insights
+
+- Certain product categories consistently outperform others  
+- Sales show clear seasonal patterns  
+- High-performing regions contribute significantly to revenue  
+- Customer purchasing behavior indicates repeat buying trends  
+
+---
+
+## 📈 Business Impact
+
+The insights from this analysis can help businesses:
+
+- Improve inventory and product strategy  
+- Identify high-value customers and regions  
+- Optimize sales and marketing efforts  
+- Make informed, data-driven decisions  
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python (Pandas, Matplotlib)  
+- Excel  
+- Power BI (Dashboard)  
+
+---
+
+## 📦 Deliverables
+
+- Exploratory Data Analysis (EDA) Notebook  
+- Interactive Dashboard  
+- Survey Report  
+
+---
+
+## 🧱 Project Structure
 
 ---
 
 ## 🔮 Future Projects
+
 - Customer Retention Dashboard  
 - Market Trend Forecasting Model  
 - Product Category Profitability Explorer  
@@ -49,10 +87,14 @@ DAVA-Demo-NovaMart/
 ---
 
 ## 📬 About DAVA
-**DAVA** is a data analysis and visualization agency dedicated to transforming raw data into clear, actionable insights.  
-We help businesses find *clarity from chaos* through meaningful visual storytelling and intelligent analytics.
 
-> *Clarity from Chaos – Data insights, beautifully delivered.*
+DAVA is a data analytics and visualization consultancy focused on transforming raw data into clear, actionable insights.
+
+We help businesses make better decisions through data analysis, dashboards, and business intelligence reporting.
+
+**Clarity from Chaos – Data insights, beautifully delivered.**
 
 ---
-© DAVA 2025  |  Showcase Project – Phase 1: Foundation
+
+© DAVA 2026 | Showcase Project – Phase 1: Foundation  
+DAVA is a trading name of DAVA INSIGHTS (Pty) Ltd
