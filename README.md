@@ -72,6 +72,8 @@ The insights from this analysis can help businesses:
 
 ---
 
+## 🧱 Project Structure
+
 DAVA-Demo-NovaMart/
 │
 ├── assets/
