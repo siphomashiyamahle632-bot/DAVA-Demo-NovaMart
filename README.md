@@ -2,8 +2,6 @@
 
 ![dava_logo](assets/dava_logo.png)
 
-*Clarity from Chaos – Data insights, beautifully delivered.*
-
 ---
 
 ## 🧩 Project Overview
@@ -74,7 +72,22 @@ The insights from this analysis can help businesses:
 
 ---
 
-## 🧱 Project Structure
+DAVA-Demo-NovaMart/
+│
+├── assets/
+│   └── dava_logo.png
+│
+├── dashboard/
+│   └── 01_NovaMart_Dashboard.png
+│
+├── notebooks/
+│   └── 01_NovaMart_EDA.ipynb
+│
+├── reports/
+│   └── 01_NovaMart_Survey_Report.pdf
+│
+├── README.md
+└── .gitignore
 
 ---
 
