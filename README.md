@@ -1,7 +1,7 @@
 # DAVA – Clarity from Chaos  
 ### Data insights, beautifully delivered.
 
-![DAVA Logo](assets/DAVA_VISUAL.png)
+![DAVA Logo](assets/dava_logo.png)
 
 ---
 
