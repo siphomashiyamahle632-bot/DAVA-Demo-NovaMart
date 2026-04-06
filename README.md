@@ -1,8 +1,6 @@
 # DAVA
 
-<p align="center">
-  <img src="assets/dava_logo.png" width="180"/>
-</p>
+![dava_logo](assets/dava_logo.png)
 
 *Clarity from Chaos – Data insights, beautifully delivered.*
 
@@ -36,9 +34,7 @@ This project aims to uncover actionable insights that help improve decision-maki
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="dashboard/novamart_dashboard.png" width="700"/>
-</p>
+![NovaMart Dashboard](dashboard/01_NovaMart_Dashboard.png)
 
 ---
 
