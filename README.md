@@ -1,6 +1,6 @@
 # DAVA
 
-![dava_logo](assets/DAVA Visual final.png)
+![DAVA Visual final](assets/DAVA Visual final.png)
 
 ---
 
