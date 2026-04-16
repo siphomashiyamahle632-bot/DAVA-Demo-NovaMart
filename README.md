@@ -1,6 +1,8 @@
 # DAVA
 
-![DAVA Visual final](assets/DAVA Visual final.png)
+<p align="center">
+  <img src="assets/dava_visual_final.png" alt="DAVA Logo" width="220"/>
+</p>
 
 ---
 
